@@ -2,7 +2,7 @@
  
 <div align=center>
 
-![se-jeongit's GitHub stats](https://github-readme-stats.vercel.app/api?username=se-jeongit&show_icons=true&theme=dark)
+![se-jeongit's GitHub stats](https://github-readme-stats.vercel.app/api?username=se-jeongit&show_icons=true&theme=)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgist.github.com%2Fse-jeongit&count_bg=%23777777&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
 ![followers](https://img.shields.io/github/followers/se-jeongit?style=social)
